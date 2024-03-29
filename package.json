@@ -1,0 +1,20 @@
+{
+  "name": "@komalbabar14/calcassignment",
+  "type": "module",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
