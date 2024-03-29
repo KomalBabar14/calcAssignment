@@ -12,7 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/inquirer": "^9.0.7"
+    "@komalbabar14/calcassignment": "^1.0.1",
+    "@types/inquirer": "^9.0.7",
+    "calculator_rehana": "^1.0.2",
+    "globally": "^0.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.30"
