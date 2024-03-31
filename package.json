@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin": "./.js",
+  "bin": "./komalbabar141.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
